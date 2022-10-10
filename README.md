@@ -2,7 +2,7 @@
 
 👩‍✈️ **Personal account security is no joke, secure them now !!**
 
-![preview](![preview](https://user-images.githubusercontent.com/109727844/194907522-52bc529b-a980-4eee-bde8-253042365d8d.jpg)
+![preview]((https://user-images.githubusercontent.com/109727844/194907522-52bc529b-a980-4eee-bde8-253042365d8d.jpg)
 
 - 🔗 [Demo Project](https://pouria-farahani-developer.github.io/Timeline/)
 
