@@ -1,6 +1,6 @@
 # Timeline
 
-🎬✈️ **Do you want the pages of your site to go back and forth like a movie, so use my code !**
+🎬 **Do you want the pages of your site to go back and forth like a movie, so use my code !**
 
 ![preview](https://user-images.githubusercontent.com/109727844/194907522-52bc529b-a980-4eee-bde8-253042365d8d.jpg)
 
